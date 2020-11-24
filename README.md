@@ -11,3 +11,4 @@ Clone the repository and run `npm install` to install the npm packages for the p
 In the project directory, there are two javascript modules including `pass.js` which holds the correct code and does not throw an error and `error.js` which throws the error.
 
 Make sure to run the `error.js` module and also follow the stack trace if you're hyper curious.
+# pierwszy_projekt
